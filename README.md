@@ -1,2 +1,2 @@
 # simeqcat
-Simulated Earthquake Catalogue
+Simulating Earthquake Catalogue
