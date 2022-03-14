@@ -1,0 +1,2 @@
+# simeqcat
+Simulated Earthquake Catalogue
